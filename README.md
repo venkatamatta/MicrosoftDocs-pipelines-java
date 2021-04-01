@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mySWAZ400/JmeterApp/_apis/build/status/venkatamatta.MicrosoftDocs-pipelines-java?branchName=master)](https://dev.azure.com/mySWAZ400/JmeterApp/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
